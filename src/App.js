@@ -23,7 +23,7 @@ function App() {
           <Route path="/education" component={Education} />
           <Route path="/skill" component={Skill} />
           <Route path="/interests" component={Interests} />
-          <Route path="/award" component={Award} />
+          <Route path="/awards" component={Award} />
 
         </Switch>
         <div className="App">
